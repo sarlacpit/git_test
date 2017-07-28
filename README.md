@@ -1,1 +1,1 @@
-This is a test of Git
+This is a test of Git - Hello World
